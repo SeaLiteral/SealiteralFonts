@@ -10,7 +10,6 @@ I made this one for a jam game that the programmers didn't finish. It has a spoo
 
 ### Todo
 - Add whichever ASCII characters I haven't added yet (I think that would be things like the dollar sign and the at sign, but I have most of that stuff already).
-- Maybe change the lowercase a to look less like a schwa. (Not a huge priority, but some less common letters are made by adding stuff to the a, so improving that letter before adding those should save some time.)
 - Improve Latin-1 coverage (add some letters that aren't used in English and are very rare in Danish, then add things like mathematical symbols).
 - Improve kerning.
 - Add some characters that aren't in Latin-1 but are used in languages like French and Esperanto. (Probably not needed for 1.0)
